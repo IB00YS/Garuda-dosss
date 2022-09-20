@@ -1,4 +1,4 @@
-# Garuda-doos
+# Garuda-ddos
 INSTALL SC Garuda
 pkg update 
 pkg upgrade
